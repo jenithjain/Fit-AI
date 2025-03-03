@@ -1,0 +1,10 @@
+
+# # Alternative OpenCV installation
+# pip install opencv-contrib-python
+
+# # Or try with --user flag if you have permission issues
+# python -m pip install --user opencv-python
+# python -m pip install --user mediapipe
+# python -m pip install --user numpy
+# python -m pip install --user scipy    
+
